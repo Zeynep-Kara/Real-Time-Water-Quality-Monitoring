@@ -25,9 +25,7 @@ The experimental setup aimed to measure real-time water quality by monitoring di
 
 ### Experiment Details
 
-| Experiment |               Top                |                Bottom                  |
-|------------|----------------------------------|----------------------------------------|
-|     No     |   NaCl (ppm)   |   MgSO4 (ppm)   |     NaCl (ppm)    |     MgSO4 (ppm)    |
+| Experiment | Top NaCl (ppm) | Top MgSO4 (ppm) | Bottom NaCl (ppm) | Bottom MgSO4 (ppm) |
 |------------|----------------|-----------------|-------------------|--------------------|
 | 1          | 50,000         | 0               | 0                 | 0                  |
 | 2          | 0              | 50,000          | 0                 | 0                  |
